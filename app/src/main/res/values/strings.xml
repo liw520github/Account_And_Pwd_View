@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Account_And_Pwd_View</string>
+    <string name="InputPwd">请输入密码</string>
+    <string name="InputAccount">请输入账号</string>
+</resources>

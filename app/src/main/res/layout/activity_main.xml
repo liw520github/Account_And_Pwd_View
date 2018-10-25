@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+<com.example.mb.account_and_pwd_view.widget.AccountView
+    android:id="@+id/edt_account"
+    style="@style/login_edit_font"
+    android:drawablePadding="15dp"
+    android:hint="@string/InputAccount"
+    android:singleLine="true"/>
+    <View
+        style="@style/edit_line_new"
+        android:layout_below="@id/edt_account" />
+    <com.example.mb.account_and_pwd_view.widget.PwdView
+        style="@style/login_edit_font"
+        android:id="@+id/edt_pwd"
+        android:layout_marginTop="2dp"
+        android:drawablePadding="15dp"
+        android:hint="@string/InputPwd"
+        android:inputType="textPassword"
+        android:singleLine="true" />
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--system-->
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+
+
+    <color name="app_head_bg">@color/white</color>
+    <color name="app_head_title">@color/black</color>
+    <color name="app_surface_bg">@color/line_gray</color>
+    <color name="app_surface_title">@color/black</color>
+    <color name="app_surface_hint">@color/text_hint</color>
+    <color name="app_text_enable">@color/black</color>
+    <color name="app_text_disable">@color/dark_gray</color>
+
+    <!--custom-->
+    <color name="transparent">@android:color/transparent</color>
+
+    <color name="black">#0c0c0c</color>
+    <color name="black_30p">#4d0c0c0c</color>
+    <color name="black_50p">#800c0c0c</color>
+    <color name="black_60p">#990c0c0c</color>
+    <color name="black_80p">#cc0c0c0c</color>
+    <color name="black_deep">#FF000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_80p">#ccffffff</color>
+    <color name="white_50p">#7fffffff</color>
+    <color name="white_20p">#33ffffff</color>
+    <color name="white_light">#fffffefe</color>
+
+    <color name="pink">#ff4141</color>
+    <color name="pink_80p">#ccff4141</color>
+
+    <color name="light_gray">#cccccc</color>
+    <color name="light_gray_40p">#66cccccc</color>
+
+    <color name="light_blue">#768bb3</color>
+
+    <color name="dark_gray">#4c4c4c</color>
+    <color name="dash_gray">#e1e1e1</color>
+    <color name="line_gray">#eeeeee</color>
+    <color name="hint_gray">#cecece</color>
+    <color name="hint_gray_f8">#f8f8f8</color>
+    <color name="sawtooth_gray">#e6e6e6</color>
+    <color name="line_dark_gray">#dddddd</color> <!-- 深色的线条 -->
+    <color name="item_select_color">#d9d9d9</color>
+
+    <color name="color_green">#32db3a</color>
+
+    <color name="text_hint">#898989</color>
+    <color name="text_hint_88p">#898989</color>
+    <color name="line_color">@color/line_gray</color>
+    <color name="app_bg_black">@color/black</color>
+    <color name="edit_bg_line">@color/black</color>
+    <color name="text_cursor_drawable">@color/pink</color>
+    <color name="wechat_gray">#f3f3f5</color>
+
+    <color name="side_bar_text">#4a4a4a</color>
+    <color name="shadow_bg">#66000000</color>
+
+    <color name="cardBodyColor">#FFFFFF</color>
+    <color name="cardShadowColor_1">#0a8c8c8c</color>
+    <color name="cardShadowColor_2">#0fcecece</color>
+    <color name="cardShadowColor_3">#14cecece</color>
+    <color name="cardShadowColor_4">#19cecece</color>
+    <color name="cardShadowColor_5">#1ececece</color>
+    <color name="cardShadowColor_6">#23cecece</color>
+    <color name="cardShadowColor_7">#28cecece</color>
+    <color name="cardShadowColor_8">#2dcecece</color>
+</resources>
